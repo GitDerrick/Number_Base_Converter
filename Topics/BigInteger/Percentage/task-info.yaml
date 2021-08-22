@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "import java.math.BigInteger        \n\nfun main() {\n    // write your code\
+    \ here\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7971#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 08 Aug 2021 01:27:35 UTC
+record: -1

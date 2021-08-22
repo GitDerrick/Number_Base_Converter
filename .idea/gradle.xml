@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Number Base Converter/task" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Average" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Deposit" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Round and power" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Theory" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Exabytes" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/LCM" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Percentage" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The maximum pairwise product" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The minimum value of N numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
